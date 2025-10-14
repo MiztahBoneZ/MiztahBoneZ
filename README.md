@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🛠️ Frontend</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -20,7 +20,7 @@
     </a>
     </p>
 
-<h3 align="center">🛠️ Backend</h3>
+<h3 align="center">Backend</h3>
     <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -57,7 +57,7 @@
     </a>
     </p>
 
-<h3 align="center">🛠️ Frameworks</h3>
+<h3 align="center">Frameworks</h3>
     <p align="center">
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
@@ -70,7 +70,7 @@
     </a>
     </p>
 
-<h3 align="center">🛠️ Tools</h3>
+<h3 align="center">Tools</h3>
     <p align="center">
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
